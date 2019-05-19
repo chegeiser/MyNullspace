@@ -10,4 +10,4 @@ https://listed.to/PUaSm2jhXm
 ## Did you know?
 For devices with an AMOLED display (as opposed to one with an LED, LCD, etc.), displaying the color black (ONLY #000000) can help save battery! AMOLED displays turn off pixels when displaying #000000 instead of turning the pixel opaque (where the backlight is still on), hence saving you battery. The color #000000 is a deep, rich black on AMOLED displays as opposed to a washed-out black you see on other screens.
 
-Enjoy the contrast! Save your eyes! Save your battery!
+Enjoy the contrast! Save your eyes! Save your battery! Install today!
