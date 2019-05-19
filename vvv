@@ -1,0 +1,17 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "com.github.chandlerhorst.sn",
+  "name": "Void",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "AMOLED friendly.",
+  "url": "https://github.com/chandlerhorst/sn/blob/master/dist/dist.css",
+  "download_url": "https://github.com/chandlerhorst/sn/archive/1.zip",
+  "latest_url": "https://listed.to/PUaSm2jhXm",
+  "marketing_url": "https://github.com/chandlerhorst/sn",
+  "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
+}
