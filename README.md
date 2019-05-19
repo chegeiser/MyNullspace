@@ -21,5 +21,6 @@ This is a theme for a note taking application. I do not deserve donations. If yo
 ### Who are you?
 An avid user of Standard Notes that merely wanted a #000000 theme.
 ### Can you change the accent color?
-Sure.
+You don't like that pretty blue?
+Just kidding, sure I can.
 Please message me on Reddit (username: ssnsec) or on the Standard Notes Slack page (username: ssnsec) with what you would like the accent color to be.
