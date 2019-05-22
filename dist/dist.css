@@ -1,20 +1,20 @@
 :root {
   --foreground-color: #eeeeee
-  --background-color: #000000;
+  --background-color: #363636;
 /*  --highlight-color: #1;*/
-  --highlight-color: #3bab42;
-  --border-color: #000000;
+  --highlight-color: #5bb0f0;
+  --border-color: #363636;
   --sn-component-foreground-color: var(--foreground-color);
   --sn-component-background-color: transparent;
   --sn-component-foreground-highlight-color: var(--highlight-color);
   --sn-component-outer-border-color: transparent;
   --sn-component-inner-border-color: var(--foreground-color);
-  --sn-stylekit-shadow-color: #000000;
+  --sn-stylekit-shadow-color: #363636;
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-color);
-  --sn-stylekit-neutral-color: #000000;
+  --sn-stylekit-neutral-color: #363636;
   --sn-stylekit-neutral-contrast-color: #ffffff;
-  --sn-stylekit-success-color: #2B9612;
+  --sn-stylekit-success-color: #5bb0f0;
   --sn-stylekit-success-contrast-color: #ffffff;
   --sn-stylekit-warning-color: #f6a200;
   --sn-stylekit-warning-contrast-color: #ffffff;
@@ -24,14 +24,14 @@
   --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
   --sn-stylekit-background-color: var(--background-color);
   --sn-stylekit-foreground-color: var(--foreground-color);
-  --sn-stylekit-border-color: #000000;
-  --sn-stylekit-contrast-background-color: #000000;
+  --sn-stylekit-border-color: #363636;
+  --sn-stylekit-contrast-background-color: #363636;
   --sn-stylekit-contrast-foreground-color: #ffffff;
-  --sn-stylekit-contrast-border-color: #000000;
-  --sn-stylekit-secondary-background-color: #000000;
+  --sn-stylekit-contrast-border-color: #363636;
+  --sn-stylekit-secondary-background-color: #363636;
   --sn-stylekit-secondary-foreground-color: #ffffff;
-  --sn-stylekit-secondary-border-color: #000000;
-  --sn-stylekit-secondary-contrast-background-color: #000000;
+  --sn-stylekit-secondary-border-color: #363636;
+  --sn-stylekit-secondary-contrast-background-color: #363636;
   --sn-stylekit-secondary-contrast-foreground-color: #ffffff;
   --sn-stylekit-secondary-contrast-border-color: #ffffff;
   --sn-stylekit-paragraph-text-color: #ffffff;
