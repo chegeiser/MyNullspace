@@ -1,7 +1,6 @@
 :root {
   --foreground-color: #eeeeee
   --background-color: #363636;
-/*  --highlight-color: #1;*/
   --highlight-color: #5bb0f0;
   --border-color: #363636;
   --sn-component-foreground-color: var(--foreground-color);
